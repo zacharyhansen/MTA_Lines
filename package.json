@@ -41,7 +41,7 @@
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
     "request": "^2.88.0",
-    "sequelize": "^4.38.0",
+    "sequelize": "^5.15.1",
     "sequelize-test-helpers": "^1.0.4",
     "sinon": "^6.2.0",
     "style-loader": "^0.23.0"
